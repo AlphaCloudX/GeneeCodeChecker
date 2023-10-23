@@ -1,8 +1,8 @@
 # GeneeCodeChecker
 Autograder with 1000+ test cases for Geene Assignment
 
-## How to use:<br>
-<br>### Download file on linux:<br>
+## How to use<br>
+### Download file on linux:<br>
 <br>navigate to your desired folder<br>
 <br>in terminal windows enter command: wget https://raw.githubusercontent.com/AlphaCloudX/GeneeCodeChecker/main/main.c<br>
 <br>Compile: gcc -Wall -std=c99 main.c lastnameFirstname.c -o testCases.out<br>
