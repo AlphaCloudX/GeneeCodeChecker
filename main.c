@@ -739,7 +739,7 @@ int main() {
         boolOut = ((int) howMany(testcase_howMany[i], 'G'));
 
         //Print test
-        printf("[CHECKING] | %s\n[EXPECTED: %d | GOT: %d] | ", testcase_howMany[i],
+        printf("[CHECKING | \"G\"] | %s\n[EXPECTED: %d | GOT: %d] | ", testcase_howMany[i],
                answers_howMany[i], boolOut);
 
         if (boolOut != answers_howMany[i]) {
