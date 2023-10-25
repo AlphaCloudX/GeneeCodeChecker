@@ -81,7 +81,7 @@ It should now start testing and after each section ask you to continue.
 ## Authors
 
 - [@AlphaCloudX](https://www.github.com/AlphaCloudX)
-
+- [@Moulik](https://github.com/Moulik-Budhiraja)
 ## Support
 
 Using ssh: https://wiki.socs.uoguelph.ca/techsupport/guides/ssh
