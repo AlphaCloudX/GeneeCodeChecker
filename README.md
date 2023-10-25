@@ -6,7 +6,9 @@ Autograder with 1000+ test cases for Geene Assignment
 <br>navigate to your desired folder<br>
 <br>in terminal windows enter command:<br>
 wget https://raw.githubusercontent.com/AlphaCloudX/GeneeCodeChecker/main/main.c<br>
-<br>Compile: gcc -Wall -std=c99 main.c lastnameFirstname.c -o testCases.out<br>
+Once installed navigate to your folder to test and enter this command to compile:<br>
+<br>gcc -Wall -std=c99 main.c lastnameFirstname.c -o testCases.out<br>
+Then to run the autograder, run this commmand:<br>
 <br>Run: ./testCases.out<br>
 
 ## In Action:
