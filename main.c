@@ -40,7 +40,12 @@ void translateDnaToMrnaProteins(char aSeq[SIZE]);
  * ALL TESTING OCCURS HERE
  */
 int main() {
+#ifdef _WIN32
   system("color");
+  system("cls");
+#else
+  system("clear");
+#endif
 
   // Printing welcome msg, just aesthetics
   printf(
