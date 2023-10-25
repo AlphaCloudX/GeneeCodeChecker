@@ -2,8 +2,7 @@
 # Genee Autograder A2
 This has over 1000 possible test cases for CIS1300 Assignment 2: genee
 
-
-
+![Logo](https://github.com/AlphaCloudX/GeneeCodeChecker/assets/66267343/86834148-7b72-401d-b089-80a6a3a92914)
 
 ## Before Using | Academic Use
 
