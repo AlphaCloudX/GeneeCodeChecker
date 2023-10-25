@@ -86,4 +86,4 @@ It should now start testing and after each section ask you to continue.
 
 Using ssh: https://wiki.socs.uoguelph.ca/techsupport/guides/ssh
 
-Any other issues or potential errors, my discord is @alphacloudx
+Any other issues or potential errors, my discord is @alphacloudx or just let me know through github by pull requests etc.
