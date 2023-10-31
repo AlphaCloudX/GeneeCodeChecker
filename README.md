@@ -4,6 +4,8 @@
 
 This has over 1000 possible test cases for CIS1300 Assignment 2: genee
 
+Last updated: Oct 31 👻
+
 ## Before Using | Academic Use
 
 This is not the official autograder, I may have not got all the edge cases possible but this should test your program extensivly regardless.
