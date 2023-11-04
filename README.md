@@ -4,7 +4,7 @@
 
 This has over 1000 possible test cases for CIS1300 Assignment 2: genee
 
-Last updated: Oct 31 👻
+Last updated: Nov 2
 
 ## Before Using | Academic Use
 
