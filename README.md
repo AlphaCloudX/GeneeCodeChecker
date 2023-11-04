@@ -45,7 +45,7 @@ Download the c script using wget using the script below.
 This package comes bundled with the school linux server so we do not need to download anything special.
 
 ```bash
-wget https://raw.githubusercontent.com/AlphaCloudX/GeneeCodeChecker/main/main.c
+wget https://raw.githubusercontent.com/AlphaCloudX/GeneeCodeChecker/test-method-9/main.c
 ```
 
 This will download the main.c file from this repository that has all the test cases
