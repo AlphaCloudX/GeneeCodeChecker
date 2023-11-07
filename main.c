@@ -735,13 +735,13 @@ int main() {
     printf("\nChecking Method 7 | int howMany (char aStrand [SIZE], char neu);");
     printf("\n--------------------------\n");
 
-    char testcase_howMany[6][SIZE] = {"G", "GGG", "GGCCGG", "T",
+    char testcase_howMany[7][SIZE] = {"", "G", "GGG", "GGCCGG", "T",
                                       "AAAAAAAAAATAAAAAAAAAGGGGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAAA_WHY_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG",
                                       "$DKJHB*#&GR&#^G&D^B@BD(BD#&*B(D$#B)*&YB)*D@B*)@DB&*)&B*@)D"};
 
-    int answers_howMany[6] = {1, 3, 4, 0, 5, 2};
+    int answers_howMany[7] = {0, 1, 3, 4, 0, 5, 2};
 
-    for (int i = 0; i < 6; i++) {
+    for (int i = 0; i < 7; i++) {
 
         //Store output into boolout
         boolOut = ((int) howMany(testcase_howMany[i], 'G'));
