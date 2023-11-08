@@ -8,13 +8,13 @@ Last updated: Nov 7
 
 ## Before Using | Academic Use
 
-This is not the official autograder, I may have not got all the edge cases possible but this should test your program extensivly regardless.
+This is not the official Autotrader, I may have not got all the edge cases possible but this should test your program extensively regardless.
 
 From UOGuelphs SOCS policies this should be all good to use, this main.c file only contains the test case inputs and the expected outputs. You will not find code that answers any of the given requirements here.
 
 ## Setting Up The Workspace
 
-To run this script, first make sure that you are connected to the linux server through ssh
+To run this script, first, make sure that you are connected to the linux server through ssh
 
 ```bash
 ssh <username>@linux.socs.uoguelph.ca
