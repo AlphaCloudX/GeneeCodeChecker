@@ -10,7 +10,7 @@ Last updated: Nov 7
 
 This is not the official autograder, I may have not got all the edge cases possible but this should test your program extensivly regardless.
 
-As according to UOGuelphs SOCS policies, this is not considered academic misconduct because this main.c file only contains the test case inputs and the expected outputs. You will not find code that answers any of the given requirements here.
+From UOGuelphs SOCS policies this should be all good to use, this main.c file only contains the test case inputs and the expected outputs. You will not find code that answers any of the given requirements here.
 
 ## Setting Up The Workspace
 
