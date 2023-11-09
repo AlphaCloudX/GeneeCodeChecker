@@ -12,6 +12,8 @@ This is not the official Autotrader, I may have not got all the edge cases possi
 
 From UOGuelphs SOCS policies this should be all good to use, this main.c file only contains the test case inputs and the expected outputs. You will not find code that answers any of the given requirements here.
 
+If there are any issues or potential errors, my discord is @alphacloudx, just send a friend request and Ill try to accept asap, my instagram is also @michael_czomko also with msg requests open or just let me know through github by pull requests etc.
+
 ## Setting Up The Workspace
 
 To run this script, first, make sure that you are connected to the linux server through ssh
@@ -87,5 +89,3 @@ It should now start testing and after each section ask you to continue.
 ## Support
 
 Using ssh: https://wiki.socs.uoguelph.ca/techsupport/guides/ssh
-
-Any other issues or potential errors, my discord is @alphacloudx or just let me know through github by pull requests etc.
