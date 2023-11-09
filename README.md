@@ -58,12 +58,11 @@ Compiling is simple, just make sure your functions file is in the same directory
 Run this command:
 
 ```bash
-gcc -Wall -std=c99 main.c <lastnameFirstname.c> -o testCases.out
+gcc -Wall -std=c99 main.c lastnameFirstname.c -o testCases.out
 ```
+main.c MUST remain the same but lastnameFirstname.> should be your .c file with all the functions.
 
 To my knowledge, the test script WILL NOT produce any warnings so all warnings present will be from your file. The output is specifically named to testCases.out to prevent it overwriting any files that might already be labeled with a.out.
-
-main.c MUST remain the same but <lastnameFirstname.c> should be your .c file with all the functions.
 
 ## Running
 
