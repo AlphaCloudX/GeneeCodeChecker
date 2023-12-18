@@ -10,7 +10,7 @@ Last updated: Nov 7
 
 This is not the official Autotrader, I may have not got all the edge cases possible but this should test your program extensively regardless.
 
-From UOGuelphs SOCS policies this should be all good to use, this main.c file only contains the test case inputs and the expected outputs. You will not find code that answers any of the given requirements here.
+From UOGuelphs SOCS policies it's my assumption that this should be all good to use, this main.c file only contains the test case inputs and the expected outputs. You will not find code that answers any of the given requirements here.
 
 If there are any issues or potential errors, my discord is @alphacloudx, just send a friend request and Ill try to accept asap, you can find me on Instagram and send me a msg(msg requests are open) or you can also let me know through github by pull requests etc.
 
